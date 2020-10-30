@@ -85,7 +85,7 @@ class Matriz():
         else:
             return False
 
-    
+
 import doctest
 doctest.testmod()
 Matriz().iniciar()
